@@ -42,4 +42,4 @@ Clone the Repository and extract the files
 
 ## Example Output
 
-![Estimated Score](Faceblur.png)
+![Final Result](display.png)
